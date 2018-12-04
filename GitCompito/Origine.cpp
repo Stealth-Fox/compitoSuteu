@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	for (int i = 0; i < 10; i++) //errore inserito di proposito
+	for (int i = 0; i < 11; i++) 
 	{
 		cout << "Contatore = " << i << endl;
 	}
