@@ -8,5 +8,6 @@ int main()
 		cout << "Contatore = " << i << endl;
 	}
 	cout << "Fine conteggio" << endl;
+	cout << "Fine programma" << endl;
 	system("PAUSE");
 }
