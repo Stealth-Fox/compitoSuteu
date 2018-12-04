@@ -7,5 +7,6 @@ int main()
 	{
 		cout << "Contatore = " << i << endl;
 	}
+	cout << "Fine conteggio" << endl;
 	system("PAUSE");
 }
